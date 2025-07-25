@@ -9,7 +9,7 @@ from PIL import Image
 # --- Configuration & AI Setup ---
 
 gemini_api_key = "AIzaSyBHoUFd_2umSWmvDSwmNW_r5J_NAeyXt6s"
-HF_API_TOKEN = "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"
+HF_API_TOKEN = "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"
 
 
 # Configure the clients
